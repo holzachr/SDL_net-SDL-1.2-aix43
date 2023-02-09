@@ -1,0 +1,168 @@
+SDLnetTCP.lo: SDLnetTCP.c
+SDLnetTCP.lo: SDLnetsys.h
+SDLnetTCP.lo: /usr/include/stdio.h
+SDLnetTCP.lo: /usr/include/standards.h
+SDLnetTCP.lo: /usr/include/va_list.h
+SDLnetTCP.lo: /usr/include/sys/types.h
+SDLnetTCP.lo: /usr/include/sys/inttypes.h
+SDLnetTCP.lo: /usr/include/sys/m_types.h
+SDLnetTCP.lo: /usr/include/sys/vm_types.h
+SDLnetTCP.lo: /usr/include/sys/limits.h
+SDLnetTCP.lo: /usr/include/float.h
+SDLnetTCP.lo: /usr/include/stdlib.h
+SDLnetTCP.lo: /usr/include/sys/wait.h
+SDLnetTCP.lo: /usr/include/sys/resource.h
+SDLnetTCP.lo: /usr/include/sys/time.h
+SDLnetTCP.lo: /usr/include/sys/signal.h
+SDLnetTCP.lo: /usr/include/sys/context.h
+SDLnetTCP.lo: /usr/include/sys/m_param.h
+SDLnetTCP.lo: /usr/include/sys/mstsave.h
+SDLnetTCP.lo: /usr/include/sys/m_signal.h
+SDLnetTCP.lo: /usr/include/sys/localedef.h
+SDLnetTCP.lo: /usr/include/sys/lc_core.h
+SDLnetTCP.lo: /usr/include/locale.h
+SDLnetTCP.lo: /usr/include/sys/localedef31.h
+SDLnetTCP.lo: /usr/include/string.h
+SDLnetTCP.lo: /usr/include/errno.h
+SDLnetTCP.lo: /usr/include/sys/ioctl.h
+SDLnetTCP.lo: /usr/include/sys/ttychars.h
+SDLnetTCP.lo: /usr/include/sys/ttydev.h
+SDLnetTCP.lo: /usr/include/unistd.h
+SDLnetTCP.lo: /usr/include/sys/access.h
+SDLnetTCP.lo: /usr/include/sys/lockf.h
+SDLnetTCP.lo: /usr/include/sys/stat.h
+SDLnetTCP.lo: /usr/include/sys/mode.h
+SDLnetTCP.lo: /usr/include/fcntl.h
+SDLnetTCP.lo: /usr/include/sys/flock.h
+SDLnetTCP.lo: /usr/include/netinet/in.h
+SDLnetTCP.lo: /usr/include/sys/machine.h
+SDLnetTCP.lo: /usr/include/net/nh.h
+SDLnetTCP.lo: /usr/include/arpa/inet.h
+SDLnetTCP.lo: /usr/include/netinet/if_ether.h
+SDLnetTCP.lo: /usr/include/net/if_dl.h
+SDLnetTCP.lo: /usr/include/sys/socket.h
+SDLnetTCP.lo: /usr/include/sys/uio.h
+SDLnetTCP.lo: /usr/include/sys/xmem.h
+SDLnetTCP.lo: /usr/include/net/if.h
+SDLnetTCP.lo: /usr/include/sys/queue.h
+SDLnetTCP.lo: /usr/include/net/route.h
+SDLnetTCP.lo: /usr/include/net/radix.h
+SDLnetTCP.lo: /usr/include/net/if_arp.h
+SDLnetTCP.lo: /usr/include/net/if_types.h
+SDLnetTCP.lo: /usr/include/netdb.h
+SDLnetTCP.lo: SDL_net.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_main.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_stdinc.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_config.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_platform.h
+SDLnetTCP.lo: /usr/include/stddef.h
+SDLnetTCP.lo: /usr/include/stdarg.h
+SDLnetTCP.lo: /usr/include/strings.h
+SDLnetTCP.lo: /usr/include/inttypes.h
+SDLnetTCP.lo: /usr/include/ctype.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/begin_code.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/close_code.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_audio.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_error.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_endian.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_mutex.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_thread.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_rwops.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_cdrom.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_cpuinfo.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_events.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_active.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_keyboard.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_keysym.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_mouse.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_video.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_joystick.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_quit.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_loadso.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_timer.h
+SDLnetTCP.lo: /opt/SDL/include/SDL/SDL_version.h
+SDLnetTCP.c:
+SDLnetsys.h:
+/usr/include/stdio.h:
+/usr/include/standards.h:
+/usr/include/va_list.h:
+/usr/include/sys/types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/limits.h:
+/usr/include/float.h:
+/usr/include/stdlib.h:
+/usr/include/sys/wait.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/time.h:
+/usr/include/sys/signal.h:
+/usr/include/sys/context.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/lc_core.h:
+/usr/include/locale.h:
+/usr/include/sys/localedef31.h:
+/usr/include/string.h:
+/usr/include/errno.h:
+/usr/include/sys/ioctl.h:
+/usr/include/sys/ttychars.h:
+/usr/include/sys/ttydev.h:
+/usr/include/unistd.h:
+/usr/include/sys/access.h:
+/usr/include/sys/lockf.h:
+/usr/include/sys/stat.h:
+/usr/include/sys/mode.h:
+/usr/include/fcntl.h:
+/usr/include/sys/flock.h:
+/usr/include/netinet/in.h:
+/usr/include/sys/machine.h:
+/usr/include/net/nh.h:
+/usr/include/arpa/inet.h:
+/usr/include/netinet/if_ether.h:
+/usr/include/net/if_dl.h:
+/usr/include/sys/socket.h:
+/usr/include/sys/uio.h:
+/usr/include/sys/xmem.h:
+/usr/include/net/if.h:
+/usr/include/sys/queue.h:
+/usr/include/net/route.h:
+/usr/include/net/radix.h:
+/usr/include/net/if_arp.h:
+/usr/include/net/if_types.h:
+/usr/include/netdb.h:
+SDL_net.h:
+/opt/SDL/include/SDL/SDL.h:
+/opt/SDL/include/SDL/SDL_main.h:
+/opt/SDL/include/SDL/SDL_stdinc.h:
+/opt/SDL/include/SDL/SDL_config.h:
+/opt/SDL/include/SDL/SDL_platform.h:
+/usr/include/stddef.h:
+/usr/include/stdarg.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/usr/include/ctype.h:
+/opt/SDL/include/SDL/begin_code.h:
+/opt/SDL/include/SDL/close_code.h:
+/opt/SDL/include/SDL/SDL_audio.h:
+/opt/SDL/include/SDL/SDL_error.h:
+/opt/SDL/include/SDL/SDL_endian.h:
+/opt/SDL/include/SDL/SDL_mutex.h:
+/opt/SDL/include/SDL/SDL_thread.h:
+/opt/SDL/include/SDL/SDL_rwops.h:
+/opt/SDL/include/SDL/SDL_cdrom.h:
+/opt/SDL/include/SDL/SDL_cpuinfo.h:
+/opt/SDL/include/SDL/SDL_events.h:
+/opt/SDL/include/SDL/SDL_active.h:
+/opt/SDL/include/SDL/SDL_keyboard.h:
+/opt/SDL/include/SDL/SDL_keysym.h:
+/opt/SDL/include/SDL/SDL_mouse.h:
+/opt/SDL/include/SDL/SDL_video.h:
+/opt/SDL/include/SDL/SDL_joystick.h:
+/opt/SDL/include/SDL/SDL_quit.h:
+/opt/SDL/include/SDL/SDL_loadso.h:
+/opt/SDL/include/SDL/SDL_timer.h:
+/opt/SDL/include/SDL/SDL_version.h:

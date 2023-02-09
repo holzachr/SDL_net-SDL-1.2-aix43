@@ -1,0 +1,168 @@
+SDLnetselect.lo: SDLnetselect.c
+SDLnetselect.lo: SDLnetsys.h
+SDLnetselect.lo: /usr/include/stdio.h
+SDLnetselect.lo: /usr/include/standards.h
+SDLnetselect.lo: /usr/include/va_list.h
+SDLnetselect.lo: /usr/include/sys/types.h
+SDLnetselect.lo: /usr/include/sys/inttypes.h
+SDLnetselect.lo: /usr/include/sys/m_types.h
+SDLnetselect.lo: /usr/include/sys/vm_types.h
+SDLnetselect.lo: /usr/include/sys/limits.h
+SDLnetselect.lo: /usr/include/float.h
+SDLnetselect.lo: /usr/include/stdlib.h
+SDLnetselect.lo: /usr/include/sys/wait.h
+SDLnetselect.lo: /usr/include/sys/resource.h
+SDLnetselect.lo: /usr/include/sys/time.h
+SDLnetselect.lo: /usr/include/sys/signal.h
+SDLnetselect.lo: /usr/include/sys/context.h
+SDLnetselect.lo: /usr/include/sys/m_param.h
+SDLnetselect.lo: /usr/include/sys/mstsave.h
+SDLnetselect.lo: /usr/include/sys/m_signal.h
+SDLnetselect.lo: /usr/include/sys/localedef.h
+SDLnetselect.lo: /usr/include/sys/lc_core.h
+SDLnetselect.lo: /usr/include/locale.h
+SDLnetselect.lo: /usr/include/sys/localedef31.h
+SDLnetselect.lo: /usr/include/string.h
+SDLnetselect.lo: /usr/include/errno.h
+SDLnetselect.lo: /usr/include/sys/ioctl.h
+SDLnetselect.lo: /usr/include/sys/ttychars.h
+SDLnetselect.lo: /usr/include/sys/ttydev.h
+SDLnetselect.lo: /usr/include/unistd.h
+SDLnetselect.lo: /usr/include/sys/access.h
+SDLnetselect.lo: /usr/include/sys/lockf.h
+SDLnetselect.lo: /usr/include/sys/stat.h
+SDLnetselect.lo: /usr/include/sys/mode.h
+SDLnetselect.lo: /usr/include/fcntl.h
+SDLnetselect.lo: /usr/include/sys/flock.h
+SDLnetselect.lo: /usr/include/netinet/in.h
+SDLnetselect.lo: /usr/include/sys/machine.h
+SDLnetselect.lo: /usr/include/net/nh.h
+SDLnetselect.lo: /usr/include/arpa/inet.h
+SDLnetselect.lo: /usr/include/netinet/if_ether.h
+SDLnetselect.lo: /usr/include/net/if_dl.h
+SDLnetselect.lo: /usr/include/sys/socket.h
+SDLnetselect.lo: /usr/include/sys/uio.h
+SDLnetselect.lo: /usr/include/sys/xmem.h
+SDLnetselect.lo: /usr/include/net/if.h
+SDLnetselect.lo: /usr/include/sys/queue.h
+SDLnetselect.lo: /usr/include/net/route.h
+SDLnetselect.lo: /usr/include/net/radix.h
+SDLnetselect.lo: /usr/include/net/if_arp.h
+SDLnetselect.lo: /usr/include/net/if_types.h
+SDLnetselect.lo: /usr/include/netdb.h
+SDLnetselect.lo: SDL_net.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_main.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_stdinc.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_config.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_platform.h
+SDLnetselect.lo: /usr/include/stddef.h
+SDLnetselect.lo: /usr/include/stdarg.h
+SDLnetselect.lo: /usr/include/strings.h
+SDLnetselect.lo: /usr/include/inttypes.h
+SDLnetselect.lo: /usr/include/ctype.h
+SDLnetselect.lo: /opt/SDL/include/SDL/begin_code.h
+SDLnetselect.lo: /opt/SDL/include/SDL/close_code.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_audio.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_error.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_endian.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_mutex.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_thread.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_rwops.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_cdrom.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_cpuinfo.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_events.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_active.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_keyboard.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_keysym.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_mouse.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_video.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_joystick.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_quit.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_loadso.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_timer.h
+SDLnetselect.lo: /opt/SDL/include/SDL/SDL_version.h
+SDLnetselect.c:
+SDLnetsys.h:
+/usr/include/stdio.h:
+/usr/include/standards.h:
+/usr/include/va_list.h:
+/usr/include/sys/types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/limits.h:
+/usr/include/float.h:
+/usr/include/stdlib.h:
+/usr/include/sys/wait.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/time.h:
+/usr/include/sys/signal.h:
+/usr/include/sys/context.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/lc_core.h:
+/usr/include/locale.h:
+/usr/include/sys/localedef31.h:
+/usr/include/string.h:
+/usr/include/errno.h:
+/usr/include/sys/ioctl.h:
+/usr/include/sys/ttychars.h:
+/usr/include/sys/ttydev.h:
+/usr/include/unistd.h:
+/usr/include/sys/access.h:
+/usr/include/sys/lockf.h:
+/usr/include/sys/stat.h:
+/usr/include/sys/mode.h:
+/usr/include/fcntl.h:
+/usr/include/sys/flock.h:
+/usr/include/netinet/in.h:
+/usr/include/sys/machine.h:
+/usr/include/net/nh.h:
+/usr/include/arpa/inet.h:
+/usr/include/netinet/if_ether.h:
+/usr/include/net/if_dl.h:
+/usr/include/sys/socket.h:
+/usr/include/sys/uio.h:
+/usr/include/sys/xmem.h:
+/usr/include/net/if.h:
+/usr/include/sys/queue.h:
+/usr/include/net/route.h:
+/usr/include/net/radix.h:
+/usr/include/net/if_arp.h:
+/usr/include/net/if_types.h:
+/usr/include/netdb.h:
+SDL_net.h:
+/opt/SDL/include/SDL/SDL.h:
+/opt/SDL/include/SDL/SDL_main.h:
+/opt/SDL/include/SDL/SDL_stdinc.h:
+/opt/SDL/include/SDL/SDL_config.h:
+/opt/SDL/include/SDL/SDL_platform.h:
+/usr/include/stddef.h:
+/usr/include/stdarg.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/usr/include/ctype.h:
+/opt/SDL/include/SDL/begin_code.h:
+/opt/SDL/include/SDL/close_code.h:
+/opt/SDL/include/SDL/SDL_audio.h:
+/opt/SDL/include/SDL/SDL_error.h:
+/opt/SDL/include/SDL/SDL_endian.h:
+/opt/SDL/include/SDL/SDL_mutex.h:
+/opt/SDL/include/SDL/SDL_thread.h:
+/opt/SDL/include/SDL/SDL_rwops.h:
+/opt/SDL/include/SDL/SDL_cdrom.h:
+/opt/SDL/include/SDL/SDL_cpuinfo.h:
+/opt/SDL/include/SDL/SDL_events.h:
+/opt/SDL/include/SDL/SDL_active.h:
+/opt/SDL/include/SDL/SDL_keyboard.h:
+/opt/SDL/include/SDL/SDL_keysym.h:
+/opt/SDL/include/SDL/SDL_mouse.h:
+/opt/SDL/include/SDL/SDL_video.h:
+/opt/SDL/include/SDL/SDL_joystick.h:
+/opt/SDL/include/SDL/SDL_quit.h:
+/opt/SDL/include/SDL/SDL_loadso.h:
+/opt/SDL/include/SDL/SDL_timer.h:
+/opt/SDL/include/SDL/SDL_version.h:
